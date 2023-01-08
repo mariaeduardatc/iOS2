@@ -6,6 +6,7 @@ Codepath's prework fo the iOS intermediate course. The app introduces a person c
 
 App Walk-though
  
+<img src="https://media.giphy.com/media/E5s3EXD9xnHOoENwzV/giphy.gif" width=200><br>
 
 Required Features
 [x]1. App displays an image of a school's logo
